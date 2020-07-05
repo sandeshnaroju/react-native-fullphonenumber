@@ -1,5 +1,5 @@
 # react-native-fullphonenumber
-This is code for full phone number input (with country code). No need to use third party Libraries. 
+This is code for full phone number input (with country code). It depends on Popular [react-native-elements](https://react-native-elements.github.io/react-native-elements/docs/getting_started.html) project.
 
 ## HOW TO USE
 
