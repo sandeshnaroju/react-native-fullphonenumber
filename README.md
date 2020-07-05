@@ -20,19 +20,19 @@ You can change the path of the `countryCodes.json` in `componentDidMount` method
 
 ##### 1
 
-<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber1.jpg" width="400">
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber1.jpg" width="250">
 
 ##### 2
 
-<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber2.jpg" width="400">
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber2.jpg" width="250">
 
 ##### 3
 
-<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber3.jpg" width="400">
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber3.jpg" width="250">
 
 ##### 4
 
-<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber4.jpg" width="400">
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber4.jpg" width="250">
 
 
 
