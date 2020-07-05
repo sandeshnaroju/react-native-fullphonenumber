@@ -42,7 +42,7 @@ export default class FullPhoneNumber extends Component {
     }
   }
   componentDidMount () {
-    const countries = require('../assets/countries/countries.json')
+    const countries = require('countryCodes.json')
     this.con = countries['countries']
     this.list = this.con
   }
