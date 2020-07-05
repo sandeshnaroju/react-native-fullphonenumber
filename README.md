@@ -1,5 +1,5 @@
 # react-native-fullphonenumber
-This is code for full phone number input (with country code). It depends on Popular [react-native-elements](https://react-native-elements.github.io/react-native-elements/docs/getting_started.html) project.
+This is code for full phone number input (with country code) with search feature. It depends on Popular [react-native-elements](https://react-native-elements.github.io/react-native-elements/docs/getting_started.html) project.
 
 ## HOW TO USE
 
@@ -14,4 +14,26 @@ Just download `FullPhoneNumber.js` file along with `countryCodes.json`. And use 
      />
 ```
 
-You can Change the path of the `countryCodes.json` in `componentDidMount` method in `FullPhoneNumber.js`.
+You can change the path of the `countryCodes.json` in `componentDidMount` method in `FullPhoneNumber.js`.
+
+#### Preview screenshots
+
+##### 1
+
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber1.jpg" width="400">
+
+##### 2
+
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber2.jpg" width="400">
+
+##### 3
+
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber3.jpg" width="400">
+
+##### 4
+
+<img src="https://github.com/sandeshnaroju/react-native-fullphonenumber/blob/master/fullPhoneNumber4.jpg" width="400">
+
+
+
+
