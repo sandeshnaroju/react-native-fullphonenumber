@@ -1,5 +1,5 @@
 # react-native-fullphonenumber
-This is code for full phone number input (with country code)
+This is code for full phone number input (with country code). No need to use third party Libraries. 
 
 ## HOW TO USE
 
@@ -14,3 +14,4 @@ Just download `FullPhoneNumber.js` file along with `countryCodes.json`. And use 
      />
 ```
 
+You can Change the path of the countryCodes.json in `componentDidMount` method in `FullPhoneNumber.js`.
