@@ -14,4 +14,4 @@ Just download `FullPhoneNumber.js` file along with `countryCodes.json`. And use 
      />
 ```
 
-You can Change the path of the countryCodes.json in `componentDidMount` method in `FullPhoneNumber.js`.
+You can Change the path of the `countryCodes.json` in `componentDidMount` method in `FullPhoneNumber.js`.
